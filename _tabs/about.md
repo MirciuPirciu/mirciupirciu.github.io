@@ -15,9 +15,3 @@ With that being said, thanks for visiting the blog.
 > _"The path is made by walking."_
 >
 > African Proverb
-
-> It is my first time running a blog and additionally, my experience in CTFs is not bad but neither good. Any materials inside this blog might be wrong so let me know by reaching me by email if I made a mistake.
-{: .prompt-warning }
-
-> For now, the blog is empty. I am in the process of converting some CTF writeups I made into actual posts. Also in the meantime, I am trying to get used to hosting this blog with Github and working with Git Pages.
-{: .prompt-danger}
